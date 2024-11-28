@@ -61,4 +61,4 @@ Download the following models and place them in the project directory:
 ## 💬 Contact  
 
 Feel free to reach out for feedback, issues, or contributions!  
-📧 **Your Email**: [your-email@example.com](mailto:massnaveen1002@gmail.com)   
+📧 **Your Email**: [massnaveen1002@gmail.com](mailto:massnaveen1002@gmail.com)   
